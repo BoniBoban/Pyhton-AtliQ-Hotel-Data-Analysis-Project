@@ -19,6 +19,8 @@ The goal of this project is to analyze the hotel business domain thoroughly usin
   * Analyzing Average rating per city
   * Assessing revenue by booking platforms.
 
+[View the pdf report] (AtliQ_Hotel_Data_analysis.pdf)
+
 ## Skill Learned
 
 - **Python Programming**: Proficiency in Python for data analysis, cleaning, transformation and visualization.
